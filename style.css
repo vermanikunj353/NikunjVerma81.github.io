@@ -1,0 +1,45 @@
+.my-nav{
+position: absolute;
+z-index: 10;
+width: 100%;
+}
+
+.carousel {
+  border:5px solid white;
+  border-radius: 10px;
+}
+
+body{
+	color: white;
+	background-color: black;
+	font-family: lato;
+}
+.about , .footheading
+{
+	font-family: carolina;
+	font-size: 60px;
+	letter-spacing: 1rem;
+}
+
+.icon
+{
+	height: 50px;
+	width: 50px;
+
+}
+.cardbtn{
+	background-color: #b84373;
+	color: white;
+
+}
+.cardbtn:hover{
+	color:grey;
+}
+html{
+	scroll-behavior: smooth;
+}
+.img-thumbnail
+{
+	height: 40px;
+	width: 40px; 	
+}
