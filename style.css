@@ -16,11 +16,10 @@ body{
 }
 .about , .footheading
 {
-	font-family: carolina;
+	font-family: Lato;
 	font-size: 60px;
-	letter-spacing: 1rem;
+	letter-spacing: 0.5rem;
 }
-
 .icon
 {
 	height: 50px;
