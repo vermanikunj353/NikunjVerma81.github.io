@@ -16,8 +16,8 @@ body{
 }
 .about , .footheading
 {
-	font-family: Lato;
-	font-size: 60px;
+	font-family: lato;
+	font-size: 50px;
 	letter-spacing: 0.5rem;
 }
 .icon
